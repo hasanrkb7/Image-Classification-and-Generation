@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.venv/
+tf_env/
+dataset/
+data/
+model/
+*.h5
+*.pt
+logs/
